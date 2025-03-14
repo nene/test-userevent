@@ -30,7 +30,8 @@
     "@typescript-eslint/parser": "^8.1.0",
     "eslint": "^8.57.0",
     "eslint-config-next": "^15.0.1",
-    "typescript": "^5.5.3"
+    "typescript": "^5.5.3",
+    "vitest": "^3.0.8"
   },
   "ct3aMetadata": {
     "initVersion": "7.38.1"
